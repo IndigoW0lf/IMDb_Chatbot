@@ -16,7 +16,10 @@ The project follows this structure:
 
 ## Instructions
 
-To use the Movie Recommendation Chatbot, follow these steps:
+The easiest way is to click the image below. This will take you to Binder, an environment where you can immediately
+access and run the Movie Recommendation Chatbot!
+
+To use the Movie Recommendation Chatbot by downloading the .ipynb to your computer, follow these steps:
 
 1. Install the necessary dependencies listed in the Jupyter Notebook.
 2. Open the `Movie Recommendation Chatbot.ipynb` file using Jupyter Notebook.
