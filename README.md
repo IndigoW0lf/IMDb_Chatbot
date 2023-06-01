@@ -19,6 +19,8 @@ The project follows this structure:
 The easiest way is to click the image below. This will take you to Binder, an environment where you can immediately
 access and run the Movie Recommendation Chatbot!
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IndigoW0lf/IMDb_Chatbot/HEAD)
+
 To use the Movie Recommendation Chatbot by downloading the .ipynb to your computer, follow these steps:
 
 1. Install the necessary dependencies listed in the Jupyter Notebook.
