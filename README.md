@@ -20,6 +20,9 @@ The easiest way is to click the image below. This will take you to Binder, an en
 access and run the Movie Recommendation Chatbot!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IndigoW0lf/IMDb_Chatbot/main?labpath=Movie%20Recommendation%20Chatbot.ipynb)
+1. Allow the Binder app time to run the chatbot.
+2. Run the code cells in the Notebook to load the dataset, define functions, and implement the chatbot.
+3. Follow the instructions provided in the Notebook to interact with the chatbot and receive movie recommendations.
 
 To use the Movie Recommendation Chatbot by downloading the .ipynb to your computer, follow these steps:
 
