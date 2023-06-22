@@ -10,7 +10,7 @@ The Movie Recommendation Chatbot is designed to interact with users and suggest 
 
 The project follows this structure:
 
-- `IMDb movies.csv`: The dataset containing information about movies, including genres, titles, stars, and more.
+- `Movie Recommendation Chatbot.csv`: The dataset containing information about movies, including genres, titles, stars, and more.
 - `Movie Recommendation Chatbot.ipynb`: Jupyter Notebook containing the Python code for the chatbot implementation.
 - `README.md`: The README file you are currently reading, providing an overview and instructions for the project.
 
